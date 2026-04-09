@@ -1,0 +1,4 @@
+interface Servis {
+
+    void jadwalservis();
+}
